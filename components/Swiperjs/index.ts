@@ -1,0 +1,1 @@
+export { Swiperjs } from './Swiperjs'
