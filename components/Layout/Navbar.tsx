@@ -12,6 +12,8 @@ export const Navbar = ({ }: Props) => {
                     <ListItem label='HOME' href='/' />
                     |
                     <ListItem label='Swiper.js' href='/swiperjs' />
+                    |
+                    <ListItem label='Glide' href='/gliderjs' />
                 </Ul>
             </nav>
         </Wrapper>
